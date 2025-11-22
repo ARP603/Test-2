@@ -3,7 +3,7 @@
     "description": "server.type.paper.description",
     "available_versions": "",
     "available_minecraft_versions": ""
-  }
+  },
   "Fabric": {
     "description": "server.type.fabric.description",
     "available_versions": "",
