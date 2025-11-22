@@ -1,4 +1,4 @@
 {
-  "english": { "display_name": "English", "location": "" },
+  "english": { "display_name": "English", "location": "https://raw.githubusercontent.com/ARP603/Test-2/refs/heads/main/language/english.json" },
   "spanish": { "display_name": "Español", "location": "" }
 }
