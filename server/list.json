@@ -1,0 +1,17 @@
+{
+  "Paper MC": {
+    "description": "server.type.paper.description",
+    "available_versions": "",
+    "available_minecraft_versions": ""
+  }
+  "Fabric": {
+    "description": "server.type.fabric.description",
+    "available_versions": "",
+    "available_minecraft_versions": ""
+  },
+  "Forge": {
+    "description": "server.type.forge.description",
+    "available_versions": "",
+    "available_minecraft_versions": ""
+  }
+}
